@@ -1,7 +1,7 @@
 function Hero() {
     return (
         <div className="md:flex flex-row-reverse items-center gap-x-20 space-y-14 md:space-y-0 text pb-20">
-            <img src="/public/Mario1.jpeg" className="w-full md:w-1/2 rounded-lg" alt="Mario image"/>
+            <img src="/Mario1.jpeg" className="w-full md:w-1/2 rounded-lg" alt="Mario image"/>
             <div className="flex flex-col items-start gap-4 justify-center">
                 <h3 className="text-5xl font-semibold">Clincial Affairs Specialist</h3>
                 <p className="text-lg/8 text-gray-600">I'm a Clinical Affairs Specialist at be-on-Quality,
